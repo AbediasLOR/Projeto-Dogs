@@ -13,7 +13,7 @@ O design foi desenvolvido com inspiração em redes sociais contemporâneas, equ
 - ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 - ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-# Link:
+# Link
 
 - https://projeto-dogs-sooty.vercel.app/
 
